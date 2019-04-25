@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 For our project, we chose to model a skipping stone in the hopes of answering the question: What is the best angle at which to throw a skipping stone in order to have both the most skips and the furthest distance travelled? We chose this topic because skipping stones is something that everyone has experience with and memories of, yet we rarely think about how it is possible for a rock to skip across water. It is something we were really curious about, and additionally wanted to understand how to be successful in getting the most skips out of a single throw. To do this, we are creating a model based on a paper discussing the idealized physics of a skipping stone. This paper also offers its own results into the number of skips that can be obtained from any given stone tilt which agree very closely with real life observations.
 
